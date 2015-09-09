@@ -20,7 +20,7 @@ function updTime () {
 
 
  dateString = d.getMinutes() +' : ' + d.getSeconds();
-      document.getElementById("demo").innerHTML = dateString;
+      document.getElementById("timer").innerHTML = dateString;
 
 
 
